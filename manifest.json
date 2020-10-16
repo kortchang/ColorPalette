@@ -1,0 +1,7 @@
+{
+  "name": "Color Palette",
+  "id": "849846705928842807",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
